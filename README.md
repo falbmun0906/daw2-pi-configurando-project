@@ -27,7 +27,7 @@ Para este proyecto es ideal porque:
 - Usar un único lenguaje (JavaScript) simplifica el desarrollo y la integración entre frontend y backend, perfecto para un proyecto de corta duración como este. 
 
 ## GitHub Project
-[Enlace al tablero de GitHub Project](PENDIENTE_ENLACE_DEL_PROJECT)
+[Enlace al tablero de GitHub Project](https://github.com/users/falbmun0906/projects/1/views/7)
 
 ## Toggl Track
 - Reporte PDF de tiempo dedicado a las tareas.  
